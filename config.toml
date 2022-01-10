@@ -1,0 +1,4 @@
+baseURL = 'https://memwris.onrender.com/'
+languageCode = 'en-us'
+title = 'memwris'
+theme = "minimal"
